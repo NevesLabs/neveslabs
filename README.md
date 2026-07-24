@@ -1,10 +1,16 @@
 # NevesLabs
 
-Building intelligent tools for Database Engineering, Cloud Operations, Kubernetes and AI Infrastructure.
+*Building Intelligent Infrastructure.*
+
+Open-source platform for Database Engineering, Cloud Operations, Kubernetes, AI Infrastructure and MLOps.
+
+---
 
 ## Mission
 
-Transform repetitive operational tasks into scalable, documented and reusable automation.
+Design and build production-ready automation that empowers engineers to operate databases, cloud platforms and AI infrastructure more efficiently.
+
+---
 
 ## Focus Areas
 
@@ -20,6 +26,14 @@ Transform repetitive operational tasks into scalable, documented and reusable au
 - Automation
 - MLOps
 
+---
+
 ## Projects
 
 See our active roadmap and projects list in [PROJECTS.md](./PROJECTS.md) and [ROADMAP.md](./ROADMAP.md).
+
+---
+
+## Principle
+
+Every project starts from a real production problem.
