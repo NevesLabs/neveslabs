@@ -35,3 +35,13 @@ Projects that already exist in some form and need to be organized.
 - [ ] AWS Inventory Scripts
 - [ ] MySQL Analyze/Optimize Scripts
 - [ ] Kubernetes Configurations
+
+---
+
+## Status Legend
+
+- 📋 Planned
+- 🚧 In Progress
+- ✅ Completed
+- ⏸️ On Hold
+- ❌ Archived
